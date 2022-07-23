@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://red-queen.io/sitemap.xml
